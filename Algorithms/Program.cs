@@ -12,6 +12,7 @@ namespace Algorithms
         {
             // This comment is added after the first push
             Console.WriteLine("Hello, Git with Microsoft Visual Studio!");
+            // This comment was added from GitHub
         }
     }
 }

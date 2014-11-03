@@ -4,16 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// GitHub management tested out with Visual Studio.
 namespace Algorithms
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Git with Microsoft Visual Studio!");
-            
-            // This is a new branch, and all the comments were deleted. Lets see how does this look in VS.
-            // This comment added from VS after pulling the newly created branch.
+            // Now the algorithms start
         }
     }
 }

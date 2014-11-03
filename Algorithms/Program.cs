@@ -12,6 +12,8 @@ namespace Algorithms
         {
             // This comment is added after the first push
             Console.WriteLine("Hello, Git with Microsoft Visual Studio!");
+
+            // This comment was added from VS without a pull to see how merge happens
         }
     }
 }

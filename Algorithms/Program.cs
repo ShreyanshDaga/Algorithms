@@ -10,15 +10,10 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            // This comment is added after the first push
             Console.WriteLine("Hello, Git with Microsoft Visual Studio!");
-            // This comment was added from GitHub
-
-            // This comment was added from VS without a pull to see how merge happens
-            // Now the merge is done and cnflict resolved, this comment will be pulled first and then changes will take place from VS
-
-
-            // Repo was pulled before, and now this comment is going from VS and then it will be commited and pushed.
+            
+            // This is a new branch, and all the comments were deleted. Lets see how does this look in VS.
+            // This comment added from VS after pulling the newly created branch.
         }
     }
 }

@@ -13,6 +13,7 @@ namespace Algorithms
             Console.WriteLine("Hello, Git with Microsoft Visual Studio!");
             
             // This is a new branch, and all the comments were deleted. Lets see how does this look in VS.
+            // This comment added from VS after pulling the newly created branch.
         }
     }
 }

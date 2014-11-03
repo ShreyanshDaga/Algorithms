@@ -16,6 +16,9 @@ namespace Algorithms
 
             // This comment was added from VS without a pull to see how merge happens
             // Now the merge is done and cnflict resolved, this comment will be pulled first and then changes will take place from VS
+
+
+            // Repo was pulled before, and now this comment is going from VS and then it will be commited and pushed.
         }
     }
 }

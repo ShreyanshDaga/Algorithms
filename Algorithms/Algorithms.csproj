@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataStructures.cs" />
     <Compile Include="DivideConquerAlgorithms.cs" />
     <Compile Include="GreedyAlgorithms.cs" />
     <Compile Include="Program.cs" />

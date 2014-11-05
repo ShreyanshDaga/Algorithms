@@ -10,5 +10,20 @@ namespace Algorithms
     {
         // This class will deal with greedy algorithms
 
+        public GreedyAlgorithms()
+        {
+            // Start Routine here.
+
+        }
+
+        public void StableMatching()
+        {
+            // Stable matching problem
+        }
+
+        public void IntervalSchdeuling()
+        {
+            // Interval scheduling problem
+        }                
     }
 }

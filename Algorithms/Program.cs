@@ -15,7 +15,39 @@ namespace Algorithms
             
             // Do HEAP operations
             // Min?Max heap and all the operations
-            
+
+            Dog D = new GreatDane();
+
+            D.Bark();
+        }
+    }
+
+    public class Dog
+    {
+        string DogName;
+
+        public Dog()
+        {
+            Console.WriteLine("A Dog is born");
+            this.Bark();
+        }
+
+        public virtual void Bark()
+        {
+            Console.WriteLine("Dog Barking!");
+        }
+    }
+
+    public class GreatDane : Dog
+    {
+        public GreatDane()
+        {
+            Console.WriteLine("A GreatDane is Born");
+        }
+
+        public override void Bark()
+        {
+            Console.WriteLine("GreatDane Barking");
         }
     }
 }
